@@ -1,0 +1,7 @@
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\bin\Release\8Puzzle.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\bin\Release\8Puzzle.pdb
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\obj\x86\Release\_8Puzzle.Form1.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\obj\x86\Release\_8Puzzle.Properties.Resources.resources
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\obj\x86\Release\8Puzzle.csproj.GenerateResource.Cache
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\obj\x86\Release\8Puzzle.exe
+C:\Users\PC\Documents\Visual Studio 2010\Projects\8Puzzle\8Puzzle\obj\x86\Release\8Puzzle.pdb
